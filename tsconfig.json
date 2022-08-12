@@ -1,0 +1,6 @@
+{
+	"compilerOptions": {
+    "types": ["react-native"],
+    "lib": ["ES2015"]
+	},
+}

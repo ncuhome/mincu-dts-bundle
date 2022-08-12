@@ -1,0 +1,1 @@
+export { default as DeviceInfo } from 'react-native-device-info'
