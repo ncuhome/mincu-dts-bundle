@@ -1,6 +1,6 @@
 # mincu-dts-bundle
 
-Help to bundle external RN library interfaces into one single `d.ts`
+Help to bundle external TS library interfaces into one single `d.ts`
 
 ```bash
 npm i -g zx
