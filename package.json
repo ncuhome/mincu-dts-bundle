@@ -1,6 +1,7 @@
 {
   "name": "mincu-dts-bundle",
   "private": "true",
+  "type": "module",
   "scripts": {
     "gen": "sh gen.sh"
   },
@@ -14,6 +15,7 @@
     "@react-native-clipboard/clipboard": "^1.10.0",
     "@react-native-community/netinfo": "^9.3.0",
     "@types/react-native": "^0.69.5",
-    "react-native-device-info": "^10.0.2"
+    "react-native-device-info": "^10.0.2",
+    "zx": "^7.0.8"
   }
 }
